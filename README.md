@@ -1,5 +1,5 @@
 # -BG_Security
-WiteList for Server
+WiteList for Server<br/>
 (Серверний аддон для проекта Arma 3 Ukraine "Великі Ігри")
 Встановлення:
 1. Закинути папку з аддоном @BG_Security в корінь сервера
